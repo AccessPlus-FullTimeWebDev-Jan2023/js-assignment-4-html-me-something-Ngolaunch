@@ -11,7 +11,7 @@ h1 {
   (255, 140, 0, 0.927);
   margin: auto;
   text-align: center;
-    padding: 40px;
+    padding: 50px;
     ;
 }
 
@@ -20,7 +20,8 @@ h2 {
   }
 #mainHeading {
   color: red;
-  border: 100px;
+  border: solid;
+  border-color:black;
 }
 
 .funParagraph {
