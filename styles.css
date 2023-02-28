@@ -1,9 +1,45 @@
 /* Write your CSS here! */
-<style>
-.center {
+
+
+body {
+  background-color: rgba(245, 222, 179, 0.979);
+  margin: 8px;
+  display: block;
+}
+h1 {
+  color: brown
+  (255, 140, 0, 0.927);
+  margin: auto;
+  text-align: center;
+    padding: 40px;
+}
+
+h2 {
+   text-align: left;
+  }
+#mainHeading {
+  color: red;}
+
+.funParagraph {
+   background-color: green;; 
+}  
+
+p {
+  font-size: 18px;color: black;
+}
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 29%;
+    border: 200px;
   }
-  <style>
+
+  ul {
+    font-size: 18px;color: black;
+    text-align: left;
+  }
+
+
+
+
