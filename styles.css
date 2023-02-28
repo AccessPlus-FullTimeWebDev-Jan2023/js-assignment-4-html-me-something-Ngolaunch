@@ -17,15 +17,21 @@ h1 {
 
 h2 {
    text-align: left;
+   border: solid;
+   border-color: black ;
   }
 #mainHeading {
   color: red;
   border: solid;
-  border-color:black;
+  border-color: black
+  ;
 }
 
 .funParagraph {
-   background-color: green;; 
+   
+   color: darkgreen; 
+   border: solid;
+   text-size-adjust: bold;
 }  
 
 p {
