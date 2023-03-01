@@ -1,1 +1,58 @@
 /* Write your CSS here! */
+
+
+body {
+  background-color: rgba(245, 222, 179, 0.979);
+  margin: 8px;
+  display: block;
+}
+h1 {
+  color: brown
+  (255, 140, 0, 0.927);
+  margin: auto;
+  text-align: center;
+    padding: 50px;
+    ;
+}
+
+h2 {
+   text-align: left;
+   border: solid;
+   border-color: black ;
+   padding: 10px
+  }
+#mainHeading {
+  color: red;
+  border: solid;
+  border-color: black
+  ;
+}
+
+.funParagraph {
+   
+   color: green; 
+   border: solid;
+   border-color: black;
+   text-size-adjust: bold;
+   
+}  
+
+p {
+  font-size: 18px;color: black;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 29%;
+    border: 200px;
+  }
+
+  ul {
+    font-size: 18px;color: black;
+    text-align: left;
+  }
+
+
+
+
