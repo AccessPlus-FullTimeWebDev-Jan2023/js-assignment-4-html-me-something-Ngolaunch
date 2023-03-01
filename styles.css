@@ -19,6 +19,7 @@ h2 {
    text-align: left;
    border: solid;
    border-color: black ;
+   padding: 10px
   }
 #mainHeading {
   color: red;
@@ -29,9 +30,11 @@ h2 {
 
 .funParagraph {
    
-   color: darkgreen; 
+   color: green; 
    border: solid;
+   border-color: black;
    text-size-adjust: bold;
+   
 }  
 
 p {
